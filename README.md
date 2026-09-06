@@ -287,7 +287,7 @@ Original Email
 # 🏗️ System Architecture
 
 <p align="center">
-  <img src="assets/system-architecture.png"
+  <img src="assets/system_architecture.png"
        alt="System Architecture"
        width="900"/>
 </p>
@@ -555,7 +555,7 @@ The server stores public cryptographic information required for communication.
 ## ✉️ Compose Email
 
 <p align="center">
-  <img src="assets/compose.png" alt="Compose Email" width="800"/>
+  <img src="assets/algorithm_selection.png" alt="Compose Email" width="800"/>
 </p>
 
 ---
