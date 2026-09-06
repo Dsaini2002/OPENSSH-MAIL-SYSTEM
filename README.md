@@ -563,7 +563,7 @@ The server stores public cryptographic information required for communication.
 ## 🔑 Algorithm Selection
 
 <p align="center">
-  <img src="assets/algorithm-selection.png" alt="Algorithm Selection" width="800"/>
+  <img src="assets/algorithm_selection.png" alt="Algorithm Selection" width="800"/>
 </p>
 
 ---
