@@ -1,8 +1,5 @@
 # 🛡️ OpenSSH Quantum-Safe Mail System
 
-<p align="center">
-  <img src="assets/logo.png" alt="Quantum Safe Mail System" width="180"/>
-</p>
 
 <h3 align="center">
   🔐 Post-Quantum Secure Email Communication System
