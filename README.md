@@ -24,32 +24,6 @@
 
 </p>
 
----
-
-## 📌 Table of Contents
-
-* [Overview](#-overview)
-* [Why Post-Quantum Email Security?](#-why-post-quantum-email-security)
-* [Key Features](#-key-features)
-* [How the System Works](#-how-the-system-works)
-* [System Architecture](#-system-architecture)
-* [Encryption Architecture](#-encryption-architecture)
-* [Email Security Flow](#-email-security-flow)
-* [Cryptographic Algorithms](#-cryptographic-algorithms)
-* [Key Management](#-key-management)
-* [Application Screenshots](#-application-screenshots)
-* [Project Structure](#-project-structure)
-* [Technology Stack](#-technology-stack)
-* [Installation](#-installation)
-* [Running the Application](#-running-the-application)
-* [Security Model](#-security-model)
-* [Limitations](#-limitations)
-* [Future Improvements](#-future-improvements)
-* [Author](#-author)
-* [License](#-license)
-
----
-
 # 🚀 Overview
 
 **OpenSSH Quantum-Safe Mail System** is a secure email communication platform designed to explore the integration of **Post-Quantum Cryptography (PQC)** into email communication.
@@ -750,6 +724,19 @@ The system is designed around multiple security layers.
 
 ---
 
+## 🔍 Security Research & Bug Hunting
+
+**We actively invite security researchers, cryptographers, and developers to audit and improve this project!**
+
+Since post-quantum cryptography integration is a rapidly evolving field, community review is crucial. We encourage you to:
+
+- 🐛 **Find Bugs:** Identify UI glitches, runtime exceptions, memory leaks, or dependency conflicts.
+- 🛡️ **Discover Vulnerabilities:** Test our implementation of `liboqs`, key handling, session key exchange, or payload parsing for side-channel issues, implementation flaws, or weak points.
+- ⚡ **Optimize Code:** Improve performance, refine error handling, and clean up key rotation routines.
+- 🛠️ **Submit Fixes:** Open a Pull Request with your patch—all constructive contributions will be reviewed and credited!
+
+If you discover a critical security vulnerability, please submit it via [GitHub Security Advisories](https://github.com/Dsaini2002/OPENSSH-MAIL-SYSTEM/security/advisories) or open an issue marked `[SECURITY]`.
+
 # ⚠️ Security Considerations
 
 This project is intended as a **research, educational, and experimental implementation** of Post-Quantum secure email communication.
@@ -837,21 +824,7 @@ The project demonstrates how Post-Quantum Cryptography can be incorporated into 
 
 ---
 
-# 👨‍💻 Author
 
-## Dinesh Saini
-
-**MCA — National Institute of Technology, Tiruchirappalli**
-
-Interested in:
-
-* Post-Quantum Cryptography
-* Cybersecurity
-* Artificial Intelligence
-* Competitive Programming
-* Secure Systems
-
----
 
 # 📜 License
 
